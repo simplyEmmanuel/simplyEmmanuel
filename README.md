@@ -17,8 +17,6 @@
 
 - 💬 Ask me about **R, SQL, & PowerBI**
 
-- 📫 How to reach me **https://www.linkedin.com/in/ikekwere-emmanuel/**
-
 - ⚡ Fun fact **I enjoy traveling**
 
 <h3 align="left">Connect with me:</h3>
