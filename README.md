@@ -1,5 +1,5 @@
 ![logo](https://github.com/simplyEmmanuel/simplyEmmanuel/blob/main/github-header-image.png)
-<h1 align="center">Welcome👋 Like I said, I am Emmanuel. </h1>
+<h1 align="center"> Welcome👋, I'm Emmanuel Ikekwere. </h1>
 <h3 align="center">A passionate data analyst helping professionals improve efficiency with data</h3>
 <img align="right" alt="DataAnalysis" width="400" src="https://nodusanalytics.com/wp-content/uploads/2021/03/bi-dashboard-for-website.gif">
 
