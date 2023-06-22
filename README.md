@@ -12,8 +12,6 @@
 
 - 🌱 I’m currently learning **Natural Language Processing**
 
-- 👨‍💻 All of my projects are available at [https://simplyemmanuel.github.io/EmmaTheAnalyst.github.io/](https://simplyemmanuel.github.io/EmmaTheAnalyst.github.io/)
-
 - 📝 I regularly write articles on [Data Analysis, Career Growth](Data Analysis, Career Growth)
 
 - 💬 Ask me about **R, SQL, & PowerBI**
