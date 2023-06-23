@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Natural Language Processing**
 
-- 📝 I regularly write articles and share my experience in Tech, Data Analysis and Career Growth.
+- 📝 I regularly write articles and share my experience in **Tech, Data Analysis, and Career Growth.**
 
 - 💬 Ask me about **R, SQL, & PowerBI**
 
