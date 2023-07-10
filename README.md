@@ -1,6 +1,6 @@
 ![logo](https://github.com/simplyEmmanuel/simplyEmmanuel/blob/main/github-header-image.png)
 <h1 align="center"> Welcome👋, I'm Emmanuel Ikekwere. </h1>
-<h3 align="center">A passionate Technology analyst helping professionals improve efficiency with data and knowledge in cloud computing</h3>
+<h3 align="center">A passionate Technology analyst helping professionals improve efficiency with data, and data management in cloud computing</h3>
 <h4 align="center"><i> My interest in learning and using my skills to make a positive impact drives me to work as a data analyst. As a graduate student specializing in analytics, I am particularly interested in cloud computing. Its potential for revolutionizing data collection, storage, and analysis interests me. My goal is to use my expertise and knowledge to solve business problems and make lasting impacts by providing technological solutions to scale productivity. </i></h4>
 <img align="right" alt="DataAnalysis" width="400" src="https://nodusanalytics.com/wp-content/uploads/2021/03/bi-dashboard-for-website.gif">
 
