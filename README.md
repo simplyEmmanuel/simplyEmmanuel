@@ -8,15 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/ikedemanuel" target="blank"><img src="https://img.shields.io/twitter/follow/ikedemanuel?logo=twitter&style=for-the-badge" alt="ikedemanuel" /></a> </p>
 
-- 🔭 I’m currently working on **Sales Analysis Report**
+- 🔭 I’m currently working on **Enhancing Supply Chain Resilience Using Predictive Analytics and Advanced Technologies in Healthcare**
 
 - 🌱 I’m currently learning **Natural Language Processing**
 
-- 📝 I regularly write articles and share my experience in **Tech, Data Analysis, and Career Growth.**
+- 📝 I regularly write articles and share my experience in **Tech, Data Science Tools, Artificial Intelligence and Career Growth.**
 
-- 💬 Ask me about **R, SQL, & PowerBI**
+- 💬 Ask me about **Python, R, SQL, & PowerBI**
 
-- ⚡ Fun fact **I enjoy traveling**
+- ⚡ Fun fact **I'd love to experience the world by travelling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
